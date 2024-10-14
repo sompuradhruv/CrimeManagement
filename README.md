@@ -4,8 +4,6 @@ Here’s a GitHub README file for your "Crime Analysis and Reporting System" (C.
 
 # Crime Analysis and Reporting System (C.A.R.S.)
 
-![CARS Logo](https://www.example.com/logo.png)
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
@@ -73,7 +71,8 @@ The database includes the following entities:
 - **Evidence and Reports:** Stores physical evidence and generated reports for cases.
 
 ### ER Diagram:
-![ER Diagram](https://www.example.com/er-diagram.png)
+![ER Diagram]![ER Diagram](https://github.com/user-attachments/assets/59beb04b-7505-4e89-85fa-da842ca549d6)
+
 
 ---
 
@@ -120,15 +119,10 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contact
 Developed by:
 - **Jinisha Kataria**
-- **Dhruv Sompura**
+- **Dhruv Sompura: sompradhruv0@gmail.com**
 
 Feel free to reach out with questions or suggestions via email at [contact@cars.com](mailto:contact@cars.com).
 
