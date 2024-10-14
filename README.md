@@ -1,7 +1,3 @@
-Here’s a GitHub README file for your "Crime Analysis and Reporting System" (C.A.R.S.) project, incorporating various GitHub markdown features:
-
----
-
 # Crime Analysis and Reporting System (C.A.R.S.)
 
 ## Table of Contents
@@ -71,7 +67,7 @@ The database includes the following entities:
 - **Evidence and Reports:** Stores physical evidence and generated reports for cases.
 
 ### ER Diagram:
-![ER Diagram]![ER Diagram](https://github.com/user-attachments/assets/59beb04b-7505-4e89-85fa-da842ca549d6)
+[ER Diagram](https://github.com/user-attachments/assets/59beb04b-7505-4e89-85fa-da842ca549d6)
 
 
 ---
